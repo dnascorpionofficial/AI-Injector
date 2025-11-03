@@ -1,6 +1,6 @@
 XENTHERA VANTA X7 CHANGELOGS
 ---
-November 07 - 2025
+November 03 - 2025
 Version Code : 113
 
 'First boot normal use battery drain will be lit bit high,will be back to normal within some time'
