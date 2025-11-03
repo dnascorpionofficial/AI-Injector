@@ -5,10 +5,10 @@ Version Code : 113
 
 'First boot normal use battery drain will be lit bit high,will be back to normal within some time'
 
-• Reduced the animation delay in logs ✔️
+• Reduced the animation delay in logs & about info ✔️
 • Reduced the size of options in main screen ✔️
 • Added pause applist function ✔️
 Atleast 2 package name needed to delete package names you added
 • Changed module tampering + subscription + expiry date logic with never ending notification ✔️
 • Added random colour transition on module name in WebUI ✔️
-
+• Changed links for reducing network traffic ✔️
