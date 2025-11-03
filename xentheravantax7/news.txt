@@ -13,3 +13,4 @@ Atleast 2 package name needed to delete package names you added
 • Changed module tampering + subscription + expiry date logic with never ending notification ✔️
 • Added random colour transition on module name in WebUI ✔️
 • Changed links for reducing network traffic ✔️
+• Changed style of return button in various section ✔️
