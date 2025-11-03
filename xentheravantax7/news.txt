@@ -2,8 +2,11 @@ XENTHERA VANTA X7 CHANGELOGS
 ---
 November 07 - 2025
 Version Code : 113
+
+'First boot normal use battery drain will be lit bit high,will be back to normal within some time'
+
 • Reduced the animation delay in logs ✔️
 • Reduced the size of options in main screen ✔️
-• Added Pause applist function ✔️
+• Added pause applist function ✔️
 • Changed module tampering + subscription + expiry date logic with never ending notification ✔️
 • 
