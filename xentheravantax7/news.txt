@@ -8,7 +8,7 @@ Version Code : 113
 Don't worry it will back to normal after sometime
 • Added a core script to handle configurations only ✔️
 • Reduced the code length of main script & performance script ✔️
-• Fully fixed Balance mode script ✔️
+• Fully fixed normal mode script ✔️
 • Optimized normal mode ✔️
 • Reduced the animation delay in logs & about info ✔️
 • Reduced the size of options in main screen ✔️
