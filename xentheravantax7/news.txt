@@ -12,9 +12,8 @@ Don't worry it will back to normal after sometime
 • Added random colour transition on module name in WebUI ✔️
 • Changed links for reducing network traffic ✔️
 • Changed style of return button in various section ✔️
-• Changed the method of fetching app is opened from performance app list ✔️
 • Added a core script to handle configurations ✔️
-• Changed normal mode fixed GPU to custom mode and reduced the polling interval ✔️
+• Changed normal mode fixed GPU to custom mode and tweaked polling interval ✔️
 • Reduced the code length of main script & performance script ✔️
 • Fully fixed main script ✔️
 • Optimized normal mode ✔️
