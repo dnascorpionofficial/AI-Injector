@@ -6,16 +6,20 @@ Version Code : 113
 'First boot normal use battery drain will be lit bit high,will be back to normal within some time'
 'Changing anything in General Settings & Perfomance Settings in webui will heat & drain little bit because of many loads'
 Don't worry it will back to normal after sometime
+• Added pause applist function with few safe apps load ✔️
+'Atleast 2 package name needed to delete package names you added'
+• Changed module tampering + subscription + expiry date logic with never ending notification ✔️
+• Added random colour transition on module name in WebUI ✔️
+• Changed links for reducing network traffic ✔️
+• Changed style of return button in various section ✔️
 • Changed the method of fetching app is opened from performance app list ✔️
-• Added a core script to handle configurations only ✔️
+• Added a core script to handle configurations ✔️
 • Reduced the code length of main script & performance script ✔️
 • Fully fixed main script ✔️
 • Optimized normal mode ✔️
 • Reduced the animation delay in logs & about info ✔️
 • Reduced the size of options in main screen ✔️
-• Added pause applist function with few safe apps load ✔️
-Atleast 2 package name needed to delete package names you added
-• Changed module tampering + subscription + expiry date logic with never ending notification ✔️
-• Added random colour transition on module name in WebUI ✔️
-• Changed links for reducing network traffic ✔️
-• Changed style of return button in various section ✔️
+• Changed the starting script call method ✔️
+• Reconfigured all linux processing scheduling values ✔️
+• Fixed unknown writes into non existance path in Main script ✔️
+• Lit bit more tweaks on INFERNO mode in GPU selection ✔️
