@@ -6,9 +6,10 @@ Version Code : 113
 'First boot normal use battery drain will be lit bit high,will be back to normal within some time'
 'Changing anything in General Settings & Perfomance Settings in webui will heat & drain little bit because of many loads'
 Don't worry it will back to normal after sometime
+• Changed the method of fetching app is opened from performance app list ✔️
 • Added a core script to handle configurations only ✔️
 • Reduced the code length of main script & performance script ✔️
-• Fully fixed normal mode script ✔️
+• Fully fixed main script ✔️
 • Optimized normal mode ✔️
 • Reduced the animation delay in logs & about info ✔️
 • Reduced the size of options in main screen ✔️
