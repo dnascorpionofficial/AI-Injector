@@ -22,5 +22,5 @@ Don't worry it will back to normal after sometime
 • Reduced the size of options in main screen ✔️
 • Changed the starting script call method ✔️
 • Reconfigured all linux processing scheduling values ✔️
-• Fixed unknown writes into non existance path in Main script ✔️
-• Lit bit more tweaks on GLIDE,INFERNO,VROTEX modes in GPU selection ✔️
+• Fixed unknown writes into non existance path in main script ✔️
+• Lit bit more tweaks on GLIDE,INFERNO,VORTEX modes in GPU selection ✔️
