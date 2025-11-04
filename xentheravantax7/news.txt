@@ -14,6 +14,7 @@ Don't worry it will back to normal after sometime
 • Changed style of return button in various section ✔️
 • Changed the method of fetching app is opened from performance app list ✔️
 • Added a core script to handle configurations ✔️
+• Changed normal mode fixed GPU to custom mode and reduced the polling interval ✔️
 • Reduced the code length of main script & performance script ✔️
 • Fully fixed main script ✔️
 • Optimized normal mode ✔️
@@ -22,4 +23,4 @@ Don't worry it will back to normal after sometime
 • Changed the starting script call method ✔️
 • Reconfigured all linux processing scheduling values ✔️
 • Fixed unknown writes into non existance path in Main script ✔️
-• Lit bit more tweaks on INFERNO mode in GPU selection ✔️
+• Lit bit more tweaks on GLIDE,INFERNO,VROTEX modes in GPU selection ✔️
