@@ -6,6 +6,9 @@ Version Code : 113
 'On first boot, normal use battery drain will be lit bit high,will be back to normal within some time'
 'Changing anything in General Settings & Perfomance Settings in webui will heat & drain little bit because of many loads'
 Don't worry it will back to normal after sometime
+"Updated Battery Usage Pattern Cycle"
+I have updated this via online on the same module version code 113,so what you guys have to do is completely drain your battery & let it switch off automatically,then keep trying to restart alot times until the screen fully black and no response
+'Then connect charger & restart your device- it may take sometime to restart,Keep the charger connected until you reach 100% Charge'
 • Added pause applist function with few safe apps load ✔️
 'Atleast 2 package name needed to delete package names you added'
 • Changed module tampering + subscription + expiry date logic with never ending notification ✔️
