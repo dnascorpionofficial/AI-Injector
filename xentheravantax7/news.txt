@@ -8,7 +8,7 @@ Version Code : 113
 Don't worry it will back to normal after sometime
 "Updated Battery Usage Pattern Cycle"
 I have updated this via online on the same module version code 113,so what you guys have to do is first turn off your all modules in your root manager (No need to uninstall just turn off) then completely drain your battery & let it switch off automatically,then keep trying to restart alot times until the screen fully black and no response
-'Then connect charger & restart your device, it may take sometime to restart,keep the charger connected and charge to 100%. after charge 100% turn on all your modules you have and do a reboot without removing the charger- After reboot keep charging for 5 more minutes. done'
+'Then connect charger & restart your device, it may take sometime to restart,keep the charger connected and charge to 100%. after charge 100% turn on all your modules you have and do a reboot without removing the charger- After reboot keep charging for atleast 10 minutes in 100% charge. done'
 • Added pause applist function with few safe apps load ✔️
 'Atleast 2 package name needed to delete package names you added'
 • Changed module tampering + subscription + expiry date logic with never ending notification ✔️
