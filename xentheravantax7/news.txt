@@ -3,7 +3,7 @@ XENTHERA VANTA X7 CHANGELOGS
 November 03 - 2025
 Version Code : 113
 
-'First boot normal use battery drain will be lit bit high,will be back to normal within some time'
+'On First boot, normal use battery drain will be lit bit high,will be back to normal within some time'
 'Changing anything in General Settings & Perfomance Settings in webui will heat & drain little bit because of many loads'
 Don't worry it will back to normal after sometime
 • Added pause applist function with few safe apps load ✔️
