@@ -8,6 +8,11 @@ first turn off your all modules in your root manager (No need to uninstall just 
 then keep trying to restart alot times until the screen fully black and no response
 connect charger & restart your device, it may take sometime to restart,keep the charger connected and charge to 100%. after charge 100% turn on all your modules you have and do a reboot without removing the charger- After reboot keep charging for atleast 10 minutes in 100% charge. done
 |
+November 08 - 2025
+Version Code : 115
+• Reverted GPU Mode OMEGA to old SURGE configuration ✔️
+• Fixing few things will update news soon ➖➖
+---
 November 05 - 2025
 Version Code : 114
 • Tweaked again GPU governors ✔️
