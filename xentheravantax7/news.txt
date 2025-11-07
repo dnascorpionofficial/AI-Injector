@@ -6,6 +6,7 @@ I have updated this via online on x7 all build
 first turn off your all modules in your root manager (No need to uninstall just turn off) then completely drain your battery & let it switch off automatically
 then keep trying to restart alot times until the screen fully black and no response
 connect charger & restart your device, it may take sometime to restart,keep the charger connected and charge to 100%. after charge 100% turn on all your modules you have and do a reboot without removing the charger- After reboot keep charging for atleast 10 minutes in 100% charge. done
+"Only one time have to do this on any x7 build"
 |
 November 05 - 2025
 Version Code : 114
