@@ -13,7 +13,7 @@ Version Code : 117
 • Changed AI Injector logs & Battery logs to Descending order (Newer will show first) ✔️
 • Replaced in performance mode & pause list RUN_IN_BG with RUN_ANY_IN_BG ✔️
 • Reverted back to linux processing scheduling to old x6-112 setup ✔️
-• Fixed allignment + changed style in Counter log box & moved the counter box to 1st place in logs section ✔️
+• Fixed allignment + changed style in counter log box & moved the counter box to first place in logs section ✔️
 |
 November 08 - 2025
 Version Code : 116
