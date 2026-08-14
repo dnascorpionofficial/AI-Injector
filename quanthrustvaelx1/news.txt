@@ -1,0 +1,82 @@
+QUANTHRUST VAEL X1 CHANGELOGS
+
+July 29 - 2026
+'Fixed all bugs in the new x2 version,so changing the expiry date of x1'
+Ask scorpion for new x2 update 🌚
+|
+July 23 - 2026
+'Found many bugs in the new x2 version,I need more time to fix everything so am extending the expiry date of X1 now. Everything will be on track soon,Thank you'
+|
+July 21 - 2026
+Quanthrust vael x2 is almost ready, so reduced x1 expiry date, In your module description that will roll out later or you guys can see the expiry date from webui
+|
+July 14 - 2026
+Version Code : 170
+'When user reboots device from normal mode, after rebooting the mode switches accordingly so first will be probably always normal mode, that's why when checking injector logs you can see a 2 normal mode continuously - it's not a bug. to fix this we will add a new log in the file to avoid this issue'
+• Added restart log in injector log to avoid redundant normal mode log ✔️
+• Increased 1 second delay to activate normal mode after rebooting to avoid notification parsing failures ✔️
+• Fixed app icons in toast notification not showing in round for some apps & bumb notification app version to 7.0 ✔️
+• Changed default sleeping delay to 6 minutes from 8 minutes ✔️
+• Auto-restore all configurations on dirty flash from next 171 build ✔️
+'You guys can backup your configuration and restore from settings after clean flash also'
+• Fixed custom random messages not showing when module startup ✔️
+---
+July 13 - 2026
+Version Code : 169
+• Fixed notification isn't showing sometimes ✔️
+• Notification tones & vibration added into app + bumb version to 6.0 ✔️
+• Added customizable performance launch tone in performance settings ✔️
+• Introduced new bugs 💀
+---
+July 11 - 2026
+Version Code : 168
+• Experimenting AOSP rom support ✔️
+• Fixed few minor bugs in WebUI ✔️
+• Dirty flashing comes with a hi from me 🌚
+|
+Version Code : 167
+• Improved RAM management ✔️
+• Improved overall device performance ✔️
+• Completely removed shell notifications ✔️
+• Fixed few permissions on installation ✔️
+• Added new app for styled notifications ✔️
+'A small note to say about the new Notification App - I don't have any knowledge about app development - full credit goes to : Grok(https://grok.com) & Thanks to Gouenji for App icon'
+---
+July 08 - 2026
+Version Code : 166
+• Loads graphics through dynamic linker instead of reading from storage ✔️
+• Graphics loading with count log added ✔️
+• Improved launching of performance apps ✔️
+---
+June 27 - 2026
+Version Code : 165
+• Reduced CPU overhead during early system startup ✔️
+• Changed the failure message when expiry date or IMEI isn't fetched properly on first try - it will retry & fallback properly ✔️
+• Removed few packages that cause notification delays in CN based xiaomi roms from freez list ✔️
+• Smarter freez list syncing ✔️
+'When you remove an app from your freeze list, it now gets properly unfrozen right away instead of just sitting there. no more manually retrying apps to undo a freeze'
+'Apps that aren't installed (or uninstalled) are now automatically removed from your freeze list instead of lingering there uselessly'
+'Trying to manually add an app that isn't installed on your device now shows a clear ''app not installed to add'' warning instead of silently failing or adding a dead package'
+---
+June 22 - 2026
+Version Code : 164
+• Optimized installation script ✔️
+• Added infinte scrolling between tabs in webui ✔️
+• Fixed update changes button showing even if there's no actual change ✔️
+• Changed default sleeping delay to 8 minutes ✔️
+• Changed update changes button to the top tab section to avoid overriding options ✔️
+• Removed laggy animation of expiry date ✔️
+• Changed style of mode switching in screen check,cpu & gpu selections ✔️
+• Fixed lagging when changing spoof ✔️
+• Changed cyan shade background completely to amoled black ✔️
+• Adapted update changes button with the theme changes ✔️
+• Switched toast app installation as system app instead of user app ✔️
+• Update expiry in module description only when changing configuration or every 8 hours ✔️
+• Changed the round edge in boxes ✔️
+• Extended expiry date ✔️
+
+Xenthera Vanta X9 Changelogs: Download(https://www.mediafire.com/file/de4dhf1xs05zflx/Xenthera_Vanta_x9_Changelogs.txt/file)
+
+Xenthera Vanta X8 Changelogs: Download(https://www.mediafire.com/file/k5wymwkfr9irkrf/Xenthera_Vanta_x8_Changelogs.txt/file)
+
+Xenthera Vanta X7 Changelogs: Download(https://www.mediafire.com/file/tpvuu8r14tyi7my/Xenthera_Vanta_x7_Changelogs.txt/file)

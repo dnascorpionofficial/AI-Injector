@@ -1,0 +1,75 @@
+XENTHERA VANTA X7 CHANGELOGS
+---
+November 28 - 2025
+Version Code : 121
+• Fixed bug in custom charging ✔️
+---
+Version Code : 120
+• Deleted few animations to reduce load in WebUI ✔️
+• Fixed allignment for custom charging ✔️
+• Toast & Shell Notifications grouped to reduce the size of General settings section ✔️
+• Added popup message for AI Injector toggle ✔️
+• Fixed custom message not showing in some ROM ✔️
+|
+November 27 - 2025
+Version Code : 119
+• Added custom charging mode ✔️
+• Deleted 2 scorlling animations from general settings & performance settings to reduce GPU load ✔️
+• Added popup message in bypass charging toggle ✔️
+|
+November 23 - 2025
+Version Code : 118
+• Shell notification off will be applied to sleeping mode also from now ✔️
+• Added a popup message in ram cleaning option ✔️
+• Added RUN_IN_BG direction on ram cleaning script ✔️
+• Replaced charsey disco font with gulax font ✔️
+|
+November 09 - 2025
+Version Code : 117
+• Changed the app fetching for assigning linux processing scheduling values in Normal mode & Sleeping mode ✔️
+• Changed AI Injector logs & Battery logs to Descending order (Newer will show first) ✔️
+• Replaced in performance mode & pause list RUN_IN_BG with RUN_ANY_IN_BG ✔️
+• Reverted back to linux processing scheduling to old x6-112 setup ✔️
+• Fixed allignment + changed style in counter log box & moved the counter box to first place in logs section ✔️
+|
+November 08 - 2025
+Version Code : 116
+• Updated read file & write functions on every script ✔️
+• Added custom name welcome + random message after boot (customize via webui > WebUI & News > Intro Name)
+• Changed the way of app list filtering in performance applist ✔️
+• Added a fallback check for path doesn't exist in main script ✔️
+• Fixed module failures notifications if main script stops ✔️
+---
+Version Code : 115
+• Reverted GPU Mode OMEGA to old SURGE configuration ✔️
+• Reverted all linux processing scheduling values to the values in x6 vc 112
+---
+November 05 - 2025
+Version Code : 114
+• Tweaked again GPU governors ✔️
+• Added a fallback check for failure in core script ✔️
+• Many more
+---
+November 03 - 2025
+Version Code : 113
+
+'On first boot, normal use battery drain will be lit bit high,will be back to normal within some time'
+'Changing anything in General Settings & Perfomance Settings in webui will heat & drain little bit because of many loads'
+Don't worry it will back to normal after sometime
+• Added pause applist function with few safe apps load ✔️
+'Atleast 2 package name needed to delete package names you added'
+• Changed module tampering + subscription + expiry date logic with never ending notification ✔️
+• Added random colour transition on module name in WebUI ✔️
+• Changed links for reducing network traffic ✔️
+• Changed style of return button in various section ✔️
+• Added a core script to handle configurations ✔️
+• Changed normal mode fixed GPU to custom mode and tweaked polling interval ✔️
+• Reduced the code length of main script & performance script ✔️
+• Fully fixed main script ✔️
+• Optimized normal mode ✔️
+• Reduced the animation delay in logs & about info ✔️
+• Reduced the size of options in main screen ✔️
+• Changed the starting script call method ✔️
+• Reconfigured all linux processing scheduling values ✔️
+• Fixed unknown writes into non existance path in main script ✔️
+• Lit bit more tweaks on GLIDE,INFERNO,VORTEX modes in GPU selection ✔️

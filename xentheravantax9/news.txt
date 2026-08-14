@@ -1,0 +1,209 @@
+🚀 Xenthera Vanta Development Update
+
+The Xenthera Vanta era has officially come to a close. Maintenance and development for Xenthera Vanta have now ended.
+
+We hope you enjoyed the journey and the final release, Build 163, which stands as the last chapter of the Vanta series.
+
+But this is not the end - it's a new beginning.
+
+Introducing the next evolution: Quanthrust Vael.
+
+Build 164 is nearly ready for deployment and is currently undergoing final preparations before launch. new generation of enhancements, optimizations, and innovations is on the horizon.
+
+Stay tuned. The Next chapter is about to begin.
+
+XENTHERA VANTA X9 CHANGELOGS
+
+June 21 - 2026
+Version Code : 163
+• Changed Default GPU mode SURGE to NEBULA ✔️
+• Changed the graphics loading method ✔️
+• Added graphics loading into memory in performance settings ✔️
+• Removed few experimental tweaks that actually doing bad experiments ✔️
+• Improved normal mode ✔️
+• Hided update changes button when popup warning is visible & load button when timer <2 ✔️
+'Old backup of AI INJECTOR might not work because of new configurations'
+---
+June 19 - 2026
+Version Code : 162
+• Default GPU mode OMEGA changed to SURGE ✔️
+• Clean junk files automatically every 8 hours or when config refreshed ✔️
+• Expiry date moved from global scope & now shows exclusively in General Settings tab only ✔️
+• Reduced the lagging slightly in Injector Log section with parallel shell execution ✔️
+• In WebUI & News, tapping any option now brings it to the top of the list and opens it there, tap it again or open another and it returns to its normal place ✔️
+• Fixed spoof settings not highlighting the active device or responding properly ✔️
+• Old backup of AI INJECTOR don't work because of new GPU RENDERING section ✔️
+---
+June 17 - 2026
+Version Code : 161
+• Added GPU RENDERING option in Performance Settings ✔️
+• You can now set the rendering API separately for Normal Mode and Performance Mode ✔️
+• Render settings are preserved across reboots ✔️
+• Removed unsupported rom description to avoid confusion, after reboot it shows until main script loaded succesfully ✔️
+---
+June 15 - 2026
+Version Code : 160
+• Disabled low-power display restrictions for improved visual responsiveness ✔️
+• Enabled dynamic CPU core downscaling, allowing cores to efficiently transition into idle states when under low load ✔️
+• Enabled backpressure handling to prevent SurfaceFlinger from submitting frames before the GPU is ready, reducing potential stutters and frame pacing issues ✔️
+• Switched the rendering backend from OpenGL to Vulkan for enhanced graphics performance and modern API support ✔️
+• Introduced experimental low-latency audio optimizations aimed at reducing audio processing delays ✔️
+---
+May 21 - 2026
+Version Code : 159
+• Fixed theme not applying in custom charging section ✔️
+• Added WebUI info when module not working or disabled ✔️
+• Improved privacy & security ✔️
+• Set stock font as default ✔️
+• Expiry date extended ✔️
+---
+May 04 - 2026
+Version Code : 158
+• Persistent logs across reboot ✔️
+• Removed log file creation on reboot ✔️
+• Removed debug lines from installation ✔️
+• Added support for deep doze removal ✔️
+• Added few more checks in battery draining log side ✔️
+• Fixed log clearing when counter resets ✔️
+• Replaced samsung s24 ultra spoof with lenovo legion gen 5 tab ✔️
+• Deep doze into sleeping mode framework ✔️
+• Improved normal use battery backup ✔️
+---
+May 01 - 2026
+Version Code : 157
+• Fixed battery drain logging errors ✔️
+• Refined normal and sleeping modes for improved balance between performance and power saving ✔️
+• Added idle tuning extended support by creating idle_mode in lib folder ✔️
+• Added experimental temperature controllers in normal mode ✔️
+• Implemented execution guard to prevent redundant script restarts ✔️ 
+---
+April 28 - 2026
+Version Code : 156
+• Removed few repeat checks from installtion script ✔️
+• Fixed meta module checks in folkpatch ✔️
+• Changed toggle styles ✔️
+• Toggle & Few sections adapted with WebUI theme ✔️
+• Detailed explanation in exported logs ✔️
+• Removed AI INJECTOR main title animation ✔️
+• Fixed theme & font not loading when importing settings ✔️
+• Delete cached module files on reboot ✔️
+• Bypass/idle charging description disabled by default ✔️
+• Few WebUI optimizations ✔️
+---
+April 27 - 2026
+Version Code : 155
+• Fixed heating issues in normal use ✔️
+• Removed increase performance related stuff completely ✔️
+• Fixed network bugs in some rom ✔️
+• Added few more packages in whitelist apps of cache cleaner ✔️
+|
+Version Code : 154
+• Fixed bugs in installation script ✔️
+• Added cache cleaning when opening performance mode ✔️
+• Higher battery drain in sleeping mode fixed ✔️
+• Added new options support in settings backup & restore ✔️
+• Update toast app instead of uninstall & reinstall when installing module ✔️
+• Battery saving improvements ✔️
+• Reduced fork calls in sleeping and normal loop ✔️
+• Screen state detections improved ✔️
+• Added performance increase switch in performance settings ✔️
+This feature will heatup device more if you don't have good external cooling
+---
+April 25 - 2026
+Version Code : 153
+'Battery drain may be slightly higher in Normal mode compared to the 152 build. It should stabilize and get optimized after about a day of regular use'
+• Optimized WebUI ✔️
+• Fixed few scroll effects in alive list ✔️
+• Added device checks in WebUI ✔️
+• Optimized GPU power handling for both normal and performance modes ✔️
+• Improved sleeping mode by redirecting it to force idle ✔️
+• Removed unnecessary action button from root managers that already include WebUI ✔️
+• Enhanced root manager detection during installation ✔️
+• Fixed random issues with GPU path detection ✔️
+• Introduced a few experimental kernel parameter tweaks ✔️
+---
+March 27 - 2026
+Version Code : 152
+• Fixed installation in FolkPatch Manager ✔️
+• Fixed fast charging not properly applying via WebUI ✔️
+• Fixed news update not showing on loading WebUI ✔️
+---
+March 16 - 2026
+Version Code : 151
+• Removed few default apps from Pause Applist ✔️
+• Added custom theme support in webui ✔️
+• Added support in theme also when exporting & importing settings ✔️
+• Added a fallback when user accidentally select dark colours ✔️
+• Fixed few animations not working ✔️
+• Removed all hardcorded icons ✔️
+
+No updates in the news section lately — things have been quiet, and that’s actually a good sign.
+
+'Over the last 150 builds, the module has reached a point where build 150 is extremely stable, with no major issues reported so far. because of that, there isn’t much left to tweak right now, and pushing updates just for the sake of updates doesn’t make much sense.'
+
+If any issues appear, feel free to report them as usual
+
+'So I’ll be taking a short break from module updates for a while. Development will resume once there are meaningful improvements or new ideas worth implementing.'
+
+A special thanks to my testers — Black Fog, Soofi, Chill Boi, Kyoraku & Sang Yan — for constantly flashing experimental builds and providing valuable feedback without hesitation. Your support helped make this project far more stable.
+
+'Appreciate everyone who continues to use and support the project. 🚀'
+
+March 04 - 2026
+Version Code : 150
+• Added auto reload webui after importing settings to show all updated settings properly ✔️
+• Changed animation on pause applist & custom charging ✔️
+|
+Version Code : 149
+• Tried to improve RAM Management ✔️
+• Added more debug when exporting logs ✔️
+• Added persistant popup message in few sections to not confuse users ✔️
+when exporting logs,settings,importing settings,adding/removing apps in pause applist,performance applist, alive applist.
+• Added new file picker menu when importing settings that supports in every webui engines ✔️
+• Fixed props not applying by default ✔️
+• Tweaked more GPU Memory optimization ✔️
+• Exporting will be saved into "Download/AI-INJECTOR" to avoid confusions ✔️
+• Tried to fix few kernel errors ✔️
+Those kernel errors aren't from module but it need to be fixed to save battery because AI INJECTOR need to satisfy users who trust me.
+
+'Just a reminder that not a single issue has been reported or found in the module so far which is harmful. I also want to assure everyone that I will never implement anything harmful to your device'
+---
+March 02 - 2026
+Version Code : 148
+• Fixed pause applist adding & removing app failure ✔️
+• Improved action.sh ✔️
+|
+Version Code : 147
+• Rewrited apk with disabled signature verification,Die after the Toast popup & changed icon ✔️
+• Changed settings path to debug properly ✔️
+• Reduced forks call ✔️
+• Rewrited some bash section into pure shell ✔️
+• Switched to faster loop ✔️
+• Optimized post boot script ✔️
+• Replaced rewrite on every change into fixed values on every change ✔️
+• Changed settings import & export related function adapted with future builds ✔️
+---
+March 01 - 2026
+Version Code : 146
+• Introduced runtime-level variable caching ✔️
+• Tuned properly RAM ✔️
+For 8GB users, It's fine. i don't have 6GB device so i did some values without testing but that doesn't mean it's bad
+• Rewrited popup app ✔️
+• Reduced repeated system calls ✔️
+• Optimized internal state reuse ✔️
+• Improved execution flow efficiency ✔️
+• Reduced redundant parsing operations ✔️
+• Lower CPU wakeups ✔️
+• Reduced overhead during loops ✔️
+• Better battery efficiency ✔️
+• Cleaner runtime execution ✔️
+• Changed toast calling method that only work with new popup app ✔️
+• Splitted emojis into seperate part to avoid conflict ✔️
+• Rewrited many fork into pure built in shell ✔️
+• Replaced labeled injection bar with a cleaner minimalist progress animation on installation ✔️
+• Fixed app not installing in some rom on module installation ✔️
+• Update More Soon 
+
+X8 Changelogs: Download(https://www.mediafire.com/file/k5wymwkfr9irkrf/x8_changelogs.txt/file)
+
+X7 Changelogs: Download(https://www.mediafire.com/file/tpvuu8r14tyi7my/x7_changelogs.txt/file)

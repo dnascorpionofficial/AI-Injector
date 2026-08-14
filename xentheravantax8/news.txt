@@ -1,0 +1,203 @@
+XENTHERA VANTA X8 CHANGELOGS
+|
+x9 update soon
+---
+February 27 - 2026
+Version Code : 145
+• Recall freez script when normal mode activated to keep freezlist safe ✔️
+• Extended support to A16 Partially ✔️
+• Removed subshell spawn ✔️
+• Added popup message when adding & removing apps in alive list, performance applist & pause applist ✔️
+• Fully optimized freez script ✔️
+• Dropped old array method in few scripts ✔️
+• Loop method changed ✔️
+• Reduced time to apply tweaks in normal mode ✔️
+---
+February 25 - 2026
+Version Code : 144
+• Fixed long package named apps not displaying properly in performance applist,lock applist,pause applist ✔️
+• Updated settings info for myself to remember the styles when adding news ✔️
+• Fully adapted with ksu & forks ✔️
+• Added support in few more MTK devices ✔️
+• Changed internal webui config ✔️
+• Changed configuration fetching to pure shell ✔️
+• Added link support in news ✔️
+• Completely removed manual call to major scripts ✔️
+• Remove debugging from main script ✔️
+• GPU switching optimized ✔️
+• New experimental tweaks in normal mode for battery backup ✔️
+• From now AI INJECTOR take 0.0% CPU which is the major change in 144 update ✔️
+Major bug found in 144,normal mode after performance mode leads to revert the settings of pause applist internally.
+---
+February 24 - 2026
+Version Code : 143
+• Fixed pause applist function ✔️
+• Changed main script working state ✔️
+• Upgraded few experimental performance tweaks ✔️
+• Removed repeated calls from main script to reduce cpu overhead on boot ✔️
+• Reduced the time of reforge ✔️
+• Added few more safe apps on pause list ✔️
+• Changed idle configurations ✔️
+---
+February 23 - 2026
+Version Code : 142
+• Added unnecessary background services change state ✔️
+• Improved thermal status on normal & performance mode ✔️
+• Added bg service status when exporting logs ✔️
+• Added backup support for bg services ✔️
+• Experimenting LMKD changes explicitly to performance apps ✔️
+• Reduced RAM Swap ✔️
+• Experimental performance tweaks & normal mode tweaks ✔️
+• Rewrited idle values for best battery when device is in idle ✔️
+---
+February 22 - 2026
+Version Code : 141
+• Fixed GPU missing in some rare edge cases ✔️
+• Added check for meta modules to properly install AI INJECTOR ✔️
+• Added SELinux context correction to prevent rare module access issues ✔️
+• Refined installation script execution for improved efficiency and reliability ✔️
+• Added SELinux & Freez list details when exporting logs ✔️
+• Added security check when adding major system apps into Pause Applist ✔️
+• Cleaned core script for reducing CPU overhead when changing WebUI settings ✔️
+---
+February 19 - 2026
+Version Code : 140
+• Changed BETA mode in performance settings CPU selection to Splitted CPU ✔️
+• Improved core initialization stability ✔️
+• Rewrited settings info properly ✔️
+• Improved support in temperature based reduce charging speed ✔️
+• Added more information when exporting logs ✔️
+• Optimized script execution priority and persistence ✔️
+• Improved custom charging controller accuracy ✔️
+• Fixed fast charging & slow charging ✔️
+• Added real-time charging command validation ✔️
+• Optimized thermal service handling and control logic ✔️
+• Enhanced GPU scheduler tuning and load balancing ✔️
+• Optimized GPU boost behavior consistency ✔️
+• Enhanced graphics preload initialization sequence ✔️
+• Optimized SurfaceFlinger and rendering pipeline performance ✔️
+• Improved system responsiveness and latency handling ✔️
+• Removed unnecessary logging in performance mode ✔️
+---
+February 14 - 2026
+Version Code : 139
+First boot will take lit more battery in some case,back to normal within 2-8 minutes
+• Improved Mali GPU driver initialization sequence ✔️
+• Optimized graphics driver during system startup ✔️
+• Enhanced GPU pipeline warmup for faster rendering response ✔️
+• Reduced initial compilation latency ✔️
+• Improved graphics subsystem preparation at boot ✔️
+• Added import & export AI INECTOR settings menu ✔️
+• Added copyright tag ✔️
+---
+February 11 - 2026
+Version Code : 138
+• Fixed random messages on start ✔️
+• Added a reforge completion notification to avoid confusion when shell notifications are off ✔️
+• Changed about info scorpion to tg username ✔️
+• Changed some optimizations on start ✔️
+---
+February 09 - 2026
+Version Code : 137
+• Added more info in the spoof settings menu ✔️
+• Deletion of unnecessary cached files ✔️
+• Fixed repeated secure element service restart loop caused by vendor misconfiguration in xiaomi devices ✔️
+• Added an option to export kernel error log & module logs to debug easily ✔️
+• Changed dnascorpionofficial tag with AI INJECTOR in webui header ✔️
+• Replaced few animations with new ✔️
+• Beta adaptive thermal parameters integrated into sleeping mode for faster cooling when screen off ✔️
+---
+February 08 - 2026
+Version Code : 136
+• Optimized main code ✔️
+• Opmtimized normal mode ✔️
+• Optimized cpu threads ✔️
+• Protection fix for same script multiple times ✔️
+---
+February 07 - 2026
+Version Code : 135
+• Added support in every rooted environments ✔️
+• Added an existance check to core script ✔️
+• Added build tag next to AI MODULE option ✔️
+• Logd changes ✔️
+---
+February 04 - 2026
+Version Code : 134
+• Added OnePlus 15 Spoof ✔️
+• Fixed uninstallation to service.d ✔️
+• Stopped calling thermal service in powersaving mode to avoid multiple calls ✔️
+---
+January 01 - 2026
+Version Code : 133
+• Added icon for mmrl ✔️
+Thanks to zgx♥️
+• Added version code attached inside webui & module details ✔️
+• Fixed webui x theme loading issue by default ✔️
+• Added support for APatch & forks ✔️
+---
+December 18 - 2025
+Version Code : 132
+• Replaced Red magic 8 pro spoof with Red magic 11 pro ✔️
+• Removed cache cleaning while flashing module ✔️
+• Fixed options being back to default settings after reboot ✔️
+|
+Version Code : 131
+• Added a small delay on rebooting when changing spoof & charging speed ✔️
+• Deleted random delay and added a fixed delay in start of the module to avoid random reboot ✔️
+• Changed few props to avoid random reboot ✔️
+---
+December 08 - 2025
+Version Code : 130
+• Splitted charging modes into 2 types & work with reboot only ✔️
+• Added few more props to improve ui on starting stage ✔️
+|
+Version Code : 129
+• Optimized full javascript with QPQ
+|
+Version Code : 128
+• Deleted again charging modes related stuffs from custom charging script & completely deleted charging mode in webui ✔️
+|
+Version Code : 127
+• Removed reboot button from charging mode change & apply those without reboot + added the logic in custom charging script ✔️
+• Fixed few webui bugs ✔️
+---
+December 07 - 2025
+Version Code : 126
+• Changed custom charging script & completely deleted charging speed section from it - it will work without it from now ✔️
+• Added webui changes with the new charging speed mode change with reboot only ✔️
+• Fixed spoof being applied even if we don't selected. only clicking reboot will change the spoof , same like that added in charging speed section ✔️
+---
+December 06 - 2025
+Version Code : 125
+• Dropped charging speed support - will add soon ✔️
+• Reverted old fast charging support ✔️
+• Reverted few cpu tweaks like old x7 build ✔️
+---
+December 06 - 2025
+Version Code : 125
+• Removed few cpu set related functions & reverted back to stable x7 build ✔️
+• Reverted charging speed ✔️
+|
+Version Code : 124
+• Reduced the delay in post boot stage ✔️
+• Changed the default fast charging speed to save battery - take effects when it's necessary,not based on temperature ✔️
+• Added dead code injection to WebUI ✔️
+• Added hidden props load ✔️
+• Smoother scrolling in performance mode ✔️
+• Added reboot button in device spoof & changed style ✔️
+• Combined spoof - non spoof module with spoof settings & changes module description ✔️
+---
+December 04 - 2025
+Version Code : 123
+• Debugging added for failures which cost ~0.1% of cpu & gpu ✔️
+• Added notification delay fix in some ROM - Beta Stage ❗
+• Reduced unnecessary cpu load ✔️
+• Device spoof customization added ✔️
+---
+November 30 - 2025
+Version Code : 122
+• Added device spoof settings - need reboot to apply changes ✔️
+• More improvements to reduce the load in WebUI ✔️
+• Changed popup info style in WebUI ✔️
+• Fixed all bugs in the bind mount logic ✔️
+• Added charging speed customization ✔️

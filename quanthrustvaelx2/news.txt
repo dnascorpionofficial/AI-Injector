@@ -1,0 +1,88 @@
+QUANTHRUST VAEL X2 CHANGELOGS
+
+August 15 - 2026
+Version Code : 178
+"Happy Independence Day to Indians"
+• Add animations for worldwide popular days on WebUI startup ✔️
+• Rebuild the device verification on WebUI with more advanced hooking ✔️
+• Add new style of device verification on 1st time opening WebUI ✔️
+• Add scorpion icon overlay into whole WebUI ✔️
+• Update notification APK - Fixed a rare issue where notification is causing some app freez & Bump version 13 to 14 ✔️
+• Changed default theme colour cyan to white for the first install users or when webui app clear data ✔️
+'Can change theme colour as usual through the AI Injector Module > Webui & News > Theme Change'
+---
+August 07 - 2026
+Version Code : 177
+• Rust versions optimized ✔️
+• Removed multiple news updated popup ✔️
+• Add custom volume to notification app ✔️
+• Added option to change toast text colour for normal & performance mode ✔️ 
+• Fixed a minor bug in rust code ✔️
+• Bump notification app to version 13 ✔️
+• Add C or Rust based description to Module ✔️
+• No of configuration restoring when dirty flash 19 to 20 in this version ✔️
+---
+August 06 - 2026
+Version Code : 176
+• 
+• Clean backup when doing dirty flash including the new toast background ✔️
+• No of configuration is 19 restoring when dirty flash in this version ✔️
+• C versions optimized ✔️
+• Change toast notification text to bold letters than non readable light letters ✔️
+• Bump notification app version to 12 & actions to latest version v7 ✔️
+• Optimized rust codes of loop , balance mode & core script ✔️
+• Changed random gradient colour to random single colour in performance mode & normal mode toast by default ✔️
+• Changed hardcoded emojis to custom emojis in normal mode & performance mode ✔️
+• Remove full screen tint when device booted ✔️
+---
+July 31 - 2026
+Version Code : 175
+• Fixed permission not applying to notification app in some cases after rebooting ✔️
+---
+July 29 - 2026
+Version Code : 174
+• Added sleeping mode exception apps list✔️
+• Adding app packages which is not installed can't be added anymore , can be deleted any packages from the lists ✔️
+• Fixed notification app is crashing in some ROM ✔️
+• Bump notification app to version 11 ✔️
+---
+July 27 - 2026
+Version Code : 173
+• Bumb notification app to version 10 skipped version 9 ✔️
+• Notification app now uses single notification ID to avoid Multiple notifications ✔️
+• Fixed multiple audio colliding when webui loads ✔️
+---
+July 24 - 2026
+Version Code : 172
+• Fixed a bug related to normal , sleeping mode switching + added a new option also with proper fallbacks ✔️
+• Fixed graphics warm up in performance mode settings ✔️
+• Improved network call for fetching expiry & subscription ✔️
+• Optimized few scripts ✔️
+• Removed few system apps from deprioritize settings ✔️
+• Fixed bugs related to notification sounds ✔️
+---
+July 23 - 2026
+'Recently discovered several bugs that need to be fixed before the next update goes Live. Am trying to resolve every issue and make sure the release is as stable and smooth as possible'
+
+'At the moment, I can't provide an exact release date. Since I have limited number of testers, the testing and verification process is taking longer than usual. I don't want to rush the update and risk introducing new issues'
+
+'I will share the final update as soon as everything is fully tested and ready'
+
+July 21 - 2026
+Version Code : 171
+• Major Codes are migrated to C language ✔️
+• Bump notification app version to 8 from 7 ✔️
+• Work per ABI support on installation ✔️
+• Fixed few bugs related to ram cleaning ✔️
+• Removed few dead codes ✔️
+• Fixed few bugs on installation ✔️
+"Give some time to settle properly. Everything needs a little time to stabilize and balance itself out before returning to Normal"
+'Well, this is the first complete C binary version of the major codes, and I also have a limited number of testers. If you find any bugs or issues, I will do my best to fix them as quickly as possible within the current limitations.'
+
+Quanthrust Vael X1 Changelogs: Download(https://raw.githubusercontent.com/dnascorpionofficial/AI-INJECTOR/refs/heads/main/quanthrustvaelx1/news.txt)
+
+Xenthera Vanta X9 Changelogs: Download(https://raw.githubusercontent.com/dnascorpionofficial/AI-INJECTOR/refs/heads/main/xentheravantax9/news.txt)
+
+Xenthera Vanta X8 Changelogs: Download(https://raw.githubusercontent.com/dnascorpionofficial/AI-INJECTOR/refs/heads/main/xentheravantax8/news.txt)
+
+Xenthera Vanta X7 Changelogs: Download(https://raw.githubusercontent.com/dnascorpionofficial/AI-INJECTOR/refs/heads/main/xentheravantax7/news.txt)
