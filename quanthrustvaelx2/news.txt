@@ -1,5 +1,13 @@
 QUANTHRUST VAEL X2 CHANGELOGS
 
+August 16 - 2026
+Version Code : 179
+• Cleaned out several leftover animations and duplicate/unused style rules that were never actually used anywhere in the WebUI ✔️
+• Export Logs, Import/Export Settings, Contact ScorpioN, and Save Name buttons now show a proper icon + label layout with smoother press/hover feedback ✔️
+• Rebuilt the rarely-used module file browser - folder icons switched from plain emoji to custom vector icons, folder listings are now cached so revisiting a folder is instant instead of reloading and freezing for a moment ✔️
+• Replaced the old plain loading bar + basic spinner + Powered By ScorpioN text intro with a full animated scorpion + a new red ring-style spinner ✔️
+• The roaming cursor-chasing scorpion effect now pauses and hides itself while the file browser is open, instead of continuing to roam behind it ✔️
+---
 August 15 - 2026
 Version Code : 178
 "Happy Independence Day to Indians"
