@@ -3,6 +3,8 @@ QUANTHRUST VAEL X2 CHANGELOGS
 August 15 - 2026
 Version Code : 178
 "Happy Independence Day to Indians"
+• Removed few IIFE pattern from javascript & set high animated WebUI part to 24FPS for reducing lag ✔️
+• Replaced few animations from WebUI that's only used once on rare cases ✔️
 • Add animations for worldwide popular days on WebUI startup ✔️
 • Rebuild the device verification on WebUI with more advanced hooking ✔️
 • Add new style of device verification on 1st time opening WebUI ✔️
