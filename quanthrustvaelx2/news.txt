@@ -1,5 +1,19 @@
 QUANTHRUST VAEL X2 CHANGELOGS
 
+August 18 - 2026
+Version Code : 180
+"WebUI Refactor"
+• Cleaned out several leftover/unused bits — dead CSS animation-delay rules nothing used, old counter-log input styling that wasn't hooked up to anything, empty placeholder spans, and a duplicate leftover copy of a settings-panel function ✔️
+• Replaced every emoji used in confirmation pop-ups, warnings, and the "remove app" buttons across the whole WebUI with clean vector icons — no more inconsistent emoji rendering depending on your device/keyboard ✔️
+• Calmed down the icon animations — the constantly shaking/spinning/flipping/bouncing icons next to toggles on Home, Apps, and other tabs are now still; the small icons inside the Settings/Info guide panels instead get a subtle heartbeat pulse ✔️
+• Injector Logs tab: opening a log now properly slides it to the top and scrolls there instead of leaving it half cut off, and puts it back where it was when you close it. AI Injector Log and Battery Log boxes are also noticeably taller so you can read more before needing to scroll ✔️
+• Fixed swiping in the Injector Logs section overlapping with the "Preferences Loaded" bar, and removed a glow that used to stick to the last log box you tapped ✔️
+• The roaming scorpion cursor effect now works throughout the whole WebUI (previously it didn't react at all in Injector Logs / Extra tabs), no longer misfires when you're just scrolling or swiping, automatically pauses itself during Export Settings/Export Logs, and its "strike" impact is simplified (no more screen flash or vibration, fewer effects layered at once) so rapid tapping won't bog things down ✔️
+• New: tapping the app title/name text lets you pause or resume the roaming scorpion effect on demand, with a confirmation pop-up ✔️
+• Holiday effects (New Year, Valentine's, Earth Day, Halloween, Christmas) now use crisp custom icons for the floating particles and banner instead of emoji, so they look consistent on every device ✔️
+• GPU Rendering confirmation now tells you exactly which mode was applied (OpenGL ES or Vulkan) instead of a generic "saved" message ✔️
+• About, Settings Info, and News panels can now show more text before you need to scroll ✔️
+---
 August 16 - 2026
 Version Code : 179
 • Cleaned out several leftover animations and duplicate/unused style rules that were never actually used anywhere in the WebUI ✔️
