@@ -3,6 +3,14 @@ QUANTHRUST VAEL X2 CHANGELOGS
 August 18 - 2026
 Version Code : 180
 "WebUI Refactor"
+• Info panels (Logs, News, Settings, About) now have neatly rounded corners instead of sharp square edges ✔️
+• The colorful scrollbar you're used to seeing in the Logs section now shows up consistently across News, Settings, and About too — thinner, smoother, and with a nice gradient glow ✔️
+• Backup & Restore panel now flashes a random accent color each time you open it, matching the vibe of the rest of the UI ✔️
+• Turned the scorpion icon animation off? It'll now actually stay off the next time you open the WebUI, before it would reset back to on every time you reopened ✔️
+• Fixed a small hiccup where the scorpion icon could flash on screen for a split second before your saved preference kicked in ✔️
+• Tapping the same log button (like Injector Log or Battery Log) repeatedly no longer causes an unnecessary jump/re-scroll - it just stays put if it's already open ✔️
+• Rapid double tapping on log buttons is now guarded against, so you won't trigger a glitchy double-open anymore ✔️
+• Fixed an issue where the RAM CLEANING IS OFF and BATTERY INFO IS OFF messages could sometimes fail to show up in red - they'll now always display properly ✔️
 • Cleaned out several leftover/unused bits — dead CSS animation-delay rules nothing used, old counter-log input styling that wasn't hooked up to anything, empty placeholder spans, and a duplicate leftover copy of a settings-panel function ✔️
 • Replaced every emoji used in confirmation pop-ups, warnings, and the "remove app" buttons across the whole WebUI with clean vector icons — no more inconsistent emoji rendering depending on your device/keyboard ✔️
 • Calmed down the icon animations — the constantly shaking/spinning/flipping/bouncing icons next to toggles on Home, Apps, and other tabs are now still; the small icons inside the Settings/Info guide panels instead get a subtle heartbeat pulse ✔️
