@@ -3,10 +3,10 @@ QUANTHRUST VAEL X2 CHANGELOGS
 August 18 - 2026
 Version Code : 180
 "WebUI Refactor"
-• New Audiowide font option added to the font picker, alongside the existing fonts ✔️
+• New Audiowide Font option added to the font picker, alongside the existing fonts ✔️
 • Tapping Add with an empty package name field no longer does nothing silently — you'll now get a clear "Enter a package name first" warning across Performance, Freeze, Lock, Whitelist, and Sleep Exception applists ✔️
 • The Settings Info panel got a full visual overhaul — instead of one long wall of text, it's now organized into clean, separated cards for each feature, and (like Backup & Restore) each card flashes a random accent-colored border every time you open the panel ✔️
-• The News panel's formatting was also cleaned up into consistent styled sections instead of raw inline text ✔️
+• The news panel formatting was also cleaned up into consistent styled sections instead of raw inline text ✔️
 • Warning/confirmation pop-ups got a redesign — the icon now sits in a small colored badge matching the alert's color, and the pop-up itself has a sleeker notched-corner card look ✔️
 • The Add/Save buttons across the applists (Performance, Alive, Cache Whitelist, Open Alive, and Sleep Settings) got a new premium pill-shaped look, with a light glowing border that matches your selected theme color, and now correctly switch fonts along with the rest of the UI ✔️
 • Info panels (Logs, News, Settings, About) now properly clip their content to the rounded corners — no more square-looking edges where the scrollbar or background used to poke out past the curve ✔️
