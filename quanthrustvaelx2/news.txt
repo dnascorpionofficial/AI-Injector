@@ -12,7 +12,7 @@ Version Code : 180
 • Info panels (Logs, News, Settings, About) now properly clip their content to the rounded corners — no more square-looking edges where the scrollbar or background used to poke out past the curve ✔️
 • The colorful scrollbar you're used to seeing in the Logs section now shows up consistently across News, Settings, and About too — thinner, smoother, and with a nice gradient glow ✔️
 • Backup & Restore panel now flashes a random accent color each time you open it, matching the vibe of the rest of the UI ✔️
-• Turned the scorpion icon animation off? It'll now actually stay off the next time you open the WebUI, before it would reset back to on every time you reopened ✔️
+• Turned the scorpion icon animation off? It'll now actually stay off the next time you open the WebUI, before it would reset back to on fresh start ✔️
 • Fixed a small hiccup where the scorpion icon could flash on screen for a split second before your saved preference kicked in ✔️
 • Tapping the same log button (like Injector Log or Battery Log) repeatedly no longer causes an unnecessary jump/re-scroll - it just stays put if it's already open ✔️
 • Rapid double tapping on log buttons is now guarded against, so you won't trigger a glitchy double-open anymore ✔️
