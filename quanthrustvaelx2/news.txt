@@ -11,6 +11,8 @@ Version Code : 181
 • Remove detection method description and added inside the detection options ✔️
 • Fix empty name clearing welcome message ✔️
 • Fixed static red colour that maybe collide with user picked red colour ✔️
+• Centre alligned logging section ✔️
+• Remove redundant animation on each options in extra options & logging section ✔️
 ---
 August 18 - 2026
 Version Code : 180
