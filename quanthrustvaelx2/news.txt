@@ -1,5 +1,17 @@
 QUANTHRUST VAEL X2 CHANGELOGS
 
+August 20 - 2026
+Version Code : 181
+• Changed all tab names ✔️
+• Restyle spoof menu ✔️
+• Remove scrollbar that shows in intro screen ✔️
+• Fix random intro line shifting ✔️
+• Added the same fade animation in spoof manager & extra settings ✔️
+• Fixed the animation delay order in performance tuning ✔️
+• Remove detection method description and added inside the detection options ✔️
+• Fix empty name clearing welcome message ✔️
+• Fixed static red colour that maybe collide with user picked red colour ✔️
+---
 August 18 - 2026
 Version Code : 180
 "WebUI Refactor"
