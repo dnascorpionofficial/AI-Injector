@@ -30,6 +30,7 @@ Version Code : 181
 • Smoother animation when switching tabs ✔️
 • Add fade animation everywhere for smoother feel ✔️
 • Removed old instant rendering completely ✔️
+• Add theme based disabled toggles than hardcoded white colour ✔️
 ---
 August 18 - 2026
 Version Code : 180
