@@ -1,6 +1,10 @@
 QUANTHRUST VAEL X2 CHANGELOGS
 
 August 20 - 2026
+Version Code : 182
+• Fix panel notification toggle bug ✔️
+• Allignment fix for few options ✔️
+• Removed few lines from performance tuning & alligned ✔️
 Version Code : 181
 "WebUI Refactor 2/3"
 • Changed all tab names ✔️
