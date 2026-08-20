@@ -13,6 +13,10 @@ Version Code : 181
 • Fixed static red colour that maybe collide with user picked red colour ✔️
 • Centre alligned logging section ✔️
 • Remove redundant animation on each options in extra options & logging section ✔️
+• Renamed "Update Changes" button to "Sync Changes" throughout ✔️
+• Prevented setting notification text & background to the same colour (so toast text can't disappear against its own background) ✔️
+• Removed the quick colour swatches from theme change - now uses the custom colour picker only ✔️
+• Improved check for news & expiry date updates to avoid hitting API limits ✔️
 ---
 August 18 - 2026
 Version Code : 180
