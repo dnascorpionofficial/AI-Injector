@@ -27,6 +27,9 @@ Version Code : 181
 • Fix panel notification toggle bug ✔️
 • Allignment fix for few options ✔️
 • Removed few lines from performance tuning & alligned ✔️
+• Smoother animation when switching tabs ✔️
+• Add fade animation everywhere for smoother feel ✔️
+• Removed old instant rendering completely ✔️
 ---
 August 18 - 2026
 Version Code : 180
