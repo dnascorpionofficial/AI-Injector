@@ -1,10 +1,6 @@
 QUANTHRUST VAEL X2 CHANGELOGS
 
 August 20 - 2026
-Version Code : 182
-• Fix panel notification toggle bug ✔️
-• Allignment fix for few options ✔️
-• Removed few lines from performance tuning & alligned ✔️
 Version Code : 181
 "WebUI Refactor 2/3"
 • Changed all tab names ✔️
@@ -28,6 +24,9 @@ Version Code : 181
 • Font Change buttons now preview each font in their own label (Stock/Cabel/ChrustyRock/BlackGoth/Nothing/Gulax/Audiowide) instead of all rendering in the same UI font; simplified the active-font checkmark badge; active border/glow now follows the theme colour ✔️
 • Smoother reorder animation — options that jump to the top when expanded now fade in/out instead of snapping ✔️
 • Fixed entrance fade-in animations not replaying when switching back to a previously visited tab ✔️
+• Fix panel notification toggle bug ✔️
+• Allignment fix for few options ✔️
+• Removed few lines from performance tuning & alligned ✔️
 ---
 August 18 - 2026
 Version Code : 180
