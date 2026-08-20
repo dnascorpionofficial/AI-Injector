@@ -2,7 +2,7 @@ QUANTHRUST VAEL X2 CHANGELOGS
 
 August 20 - 2026
 Version Code : 181
-"WebUI Refactor 2"
+"WebUI Refactor 2/3"
 • Changed all tab names ✔️
 • Restyle spoof menu ✔️
 • Remove scrollbar that shows in intro screen ✔️
@@ -27,7 +27,7 @@ Version Code : 181
 ---
 August 18 - 2026
 Version Code : 180
-"WebUI Refactor 1"
+"WebUI Refactor 1/3"
 • New Audiowide Font option added to the font picker, alongside the existing fonts ✔️
 • Tapping Add with an empty package name field no longer does nothing silently — you'll now get a clear "Enter a package name first" warning across Performance, Freeze, Lock, Whitelist, and Sleep Exception applists ✔️
 • The Settings Info panel got a full visual overhaul — instead of one long wall of text, it's now organized into clean, separated cards for each feature, and (like Backup & Restore) each card flashes a random accent-colored border every time you open the panel ✔️
