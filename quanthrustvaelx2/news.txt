@@ -2,6 +2,9 @@ QUANTHRUST VAEL X2 CHANGELOGS
 
 August 20 - 2026
 Version Code : 181
+"C & Rust Bug fixes"
+• Fix device name not loading in Rust based version ✔️
+• Disable kernel panic and logging errors ✔️
 "WebUI Refactor 2/3"
 • Changed all tab names ✔️
 • Restyle spoof menu ✔️
