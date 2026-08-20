@@ -18,6 +18,12 @@ Version Code : 181
 • Prevented setting notification text & background to the same colour (so toast text can't disappear against its own background) ✔️
 • Removed the quick colour swatches from theme change - now uses the custom colour picker only ✔️
 • Improved check for news & expiry date updates to avoid hitting API limits ✔️
+• Sleep Exception Apps input now swaps to the top of Sleep Settings when focused (so the keyboard doesn't cover it), and swaps back on Add/tap-away — description text also swaps its last word between "above"/"below" to stay accurate to whichever section is on top ✔️
+• Fixed Sleep Exception Apps list not following the selected theme colour (was stuck on hardcoded cyan while Performance/Freeze/Whitelist lists correctly followed theme) ✔️
+• Fixed Sleep Exception Apps list being centre-aligned instead of left-aligned like the other app lists, while keeping its heading/description centered ✔️
+• Font Change buttons now preview each font in their own label (Stock/Cabel/ChrustyRock/BlackGoth/Nothing/Gulax/Audiowide) instead of all rendering in the same UI font; simplified the active-font checkmark badge; active border/glow now follows the theme colour ✔️
+• Smoother reorder animation — options that jump to the top when expanded now fade in/out instead of snapping ✔️
+• Fixed entrance fade-in animations not replaying when switching back to a previously visited tab ✔️
 ---
 August 18 - 2026
 Version Code : 180
