@@ -2,8 +2,10 @@ QUANTHRUST VAEL X2 CHANGELOGS
 
 August 21 - 2026
 Version Code : 182
-"Shell part"
+"Shell"
 • Remove the redundant architecture detection during installation when placing the binaries ✔️
+"C & Rust"
+• Remove some init services maintainance ✔️
 "WebUI Refactor 3/3"
 • Alligned logging section & extra settings ✔️
 • Custom charging advanced settings input now swaps to the top of charging speed when focused (so the keyboard doesn't cover it), and swaps back on add/tap-away ✔️
