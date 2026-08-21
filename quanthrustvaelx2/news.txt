@@ -2,9 +2,9 @@ QUANTHRUST VAEL X2 CHANGELOGS
 
 August 21 - 2026
 Version Code : 182
-"Shell"
+"Shell Maintenance Part"
 • Remove the redundant architecture detection during installation when placing the binaries ✔️
-"C & Rust"
+"C & Rust Maintenance Part"
 • Remove some init services maintainance ✔️
 "WebUI Refactor 3/3"
 • Alligned logging section & extra settings ✔️
@@ -17,7 +17,7 @@ Version Code : 182
 ---
 August 20 - 2026
 Version Code : 181
-"C & Rust Bug fixes"
+"C & Rust Maintenance Part"
 • Fix codename fallback to static name Device in Rust based version ✔️
 • Disable kernel panic and logging errors ✔️
 "WebUI Refactor 2/3"
