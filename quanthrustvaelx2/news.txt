@@ -9,7 +9,8 @@ Version Code : 182
 • Custom charging advanced settings input now swaps to the top of charging speed when focused (so the keyboard doesn't cover it), and swaps back on add/tap-away ✔️
 • Updated all WebUI session keys to use the scorpion prefix, so take new settings backup for manual restore, btw on dirty flash all configuration will be restored ✔️
 • Add few more styles in news ✔️
-• Fix allignment of expiry & last updated config ✔️
+• Fixed allignment of expiry & last updated config ✔️
+• Fixed tab contents becoming empty in rare cases when switching tabs ✔️
 ---
 August 20 - 2026
 Version Code : 181
