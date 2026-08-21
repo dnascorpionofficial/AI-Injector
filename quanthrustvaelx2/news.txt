@@ -11,6 +11,7 @@ Version Code : 182
 • Add few more styles in news ✔️
 • Fixed allignment of expiry & last updated config ✔️
 • Fixed tab contents becoming empty in rare cases when switching tabs ✔️
+• Add missing icons on toast messages ✔️
 ---
 August 20 - 2026
 Version Code : 181
