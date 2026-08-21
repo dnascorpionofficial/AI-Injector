@@ -4,7 +4,7 @@ August 21 - 2026
 Version Code : 182
 "WebUI Refactor 3/3"
 • Alligned logging section & extra settings ✔️
-• Custom charging advanced settings input now swaps to the top of charging speed when focused (so the keyboard doesn't cover it), and swaps back on Add/tap-away ✔️
+• Custom charging advanced settings input now swaps to the top of charging speed when focused (so the keyboard doesn't cover it), and swaps back on add/tap-away ✔️
 ---
 August 20 - 2026
 Version Code : 181
