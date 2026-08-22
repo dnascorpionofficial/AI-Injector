@@ -1,5 +1,6 @@
 QUANTHRUST VAEL X2 CHANGELOGS
 
+
 August 21 - 2026
 Version Code : 182
 "Shell Refinement Phase"
@@ -14,6 +15,9 @@ Version Code : 182
 • Fixed allignment of expiry & last updated config ✔️
 • Fixed tab contents becoming empty in rare cases when switching tabs ✔️
 • Add missing icons on toast messages ✔️
+• Fix status bar colour not adapted with webui background ✔️
+• Moved export log button to logging section with new name COMPLETE LOGS ✔️
+• Fix animation rendering in logging section & extra settings ✔️
 ---
 August 20 - 2026
 Version Code : 181
