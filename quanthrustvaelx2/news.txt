@@ -18,6 +18,14 @@ Version Code : 182
 • Fix status bar colour not adapted with webui background ✔️
 • Moved export log button to logging section with new name COMPLETE LOGS ✔️
 • Fix animation rendering in logging section & extra settings ✔️
+• Fixed app lists to a cleaner, scrollable view ✔️
+• Added matching styled scrollbars across the lists ✔️
+• Added a custom scrollbar to the Import Settings screen ✔️
+• Reduced scrollbar thickness for a cleaner look ✔️
+• Cleaned up and simplified the CSS ✔️
+• Fixed an issue where the last package couldn't be deleted from app lists ✔️
+• Fixed Add/Remove buttons not working correctly in Sleep Settings ✔️
+• Improved Sleep Settings layout behavior for more reliable button taps ✔️
 ---
 August 20 - 2026
 Version Code : 181
