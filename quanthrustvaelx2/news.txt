@@ -1,6 +1,5 @@
 QUANTHRUST VAEL X2 CHANGELOGS
-
-
+|
 August 22 - 2026
 Version Code : 182
 "Shell Refinement Phase"
@@ -27,6 +26,7 @@ Version Code : 182
 • Fixed Add/Remove buttons not working correctly in Sleep Settings ✔️
 • Improved Sleep Settings layout behavior for more reliable button taps ✔️
 • Random recolour the status bar background to a lighter shade when the device is in light mode so the icons remain clearly visible ✔️
+• Fix some font styles auto shifting positions ✔️
 ---
 August 20 - 2026
 Version Code : 181
