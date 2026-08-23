@@ -1,6 +1,6 @@
 QUANTHRUST VAEL X2 CHANGELOGS
 |
-August 22 - 2026
+August 24 - 2026
 Version Code : 182
 "Shell Refinement Phase"
 • Remove the redundant architecture detection during installation when placing the binaries ✔️
@@ -28,6 +28,8 @@ Version Code : 182
 • Random recolour the status bar background to a lighter shade when the device is in light mode so the icons remain clearly visible ✔️
 • Fix some font styles auto shifting positions ✔️
 • Fix complete logs options not closing when opening any other in logging section + added close all options when switching tabs ✔️
+• Fix gap between logging sections options are increasing when opened ✔️
+• Fix using low DPI values in device allow you to scroll options (Before can't be scrolled - so last options are available under the navigation buttons) ✔️
 ---
 August 20 - 2026
 Version Code : 181
