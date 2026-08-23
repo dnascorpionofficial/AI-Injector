@@ -30,6 +30,7 @@ Version Code : 182
 • Fix complete logs options not closing when opening any other in logging section + added close all options when switching tabs ✔️
 • Fix gap between logging sections options are increasing when opened ✔️
 • Fix using low DPI values in device allow you to scroll options (Before can't be scrolled - so last options are available under the navigation buttons) ✔️
+• Fix when switching tabs faster the contents become invisible ✔️
 ---
 August 20 - 2026
 Version Code : 181
