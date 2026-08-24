@@ -32,6 +32,7 @@ Version Code : 182
 • Fix using low DPI values in device allow you to scroll options (Before can't be scrolled - so last options are available under the navigation buttons) ✔️
 • Fix when switching tabs faster the contents become invisible ✔️
 • Add smoother animation on opening options in logging & extra options ✔️
+• Intro lagging fixed ✔️
 ---
 August 20 - 2026
 Version Code : 181
