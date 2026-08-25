@@ -1,6 +1,6 @@
 QUANTHRUST VAEL X2 CHANGELOGS
 |
-August 24 - 2026
+August 25 - 2026
 Version Code : 182
 "Shell Refinement Phase"
 • Remove the redundant architecture detection during installation when placing the binaries ✔️
@@ -33,6 +33,10 @@ Version Code : 182
 • Fix when switching tabs faster the contents become invisible ✔️
 • Add smoother animation on opening options in logging & extra options ✔️
 • Intro lagging fixed ✔️
+• Reorder about info and added telegram buttons inside ✔️
+• Fix flickering when tab switching from input opened ✔️
+• Removed telegram button from extra options last part ✔️
+• Cleanly closes any leftover opened screen when switching tabs ✔️
 ---
 August 20 - 2026
 Version Code : 181
