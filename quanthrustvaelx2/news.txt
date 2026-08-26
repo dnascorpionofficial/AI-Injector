@@ -1,5 +1,11 @@
 QUANTHRUST VAEL X2 CHANGELOGS
 |
+"Quanthrust Vael X2 has received enough updates (12 Updates) and improvements, so we’re now moving forward with version X3"
+""The first X3 build will mainly focus on a few remaining WebUI changes, particularly alignment issues that may appear in rare edge cases & I will shift focus toward improving the C and Rust-based code, with an emphasis on optimizations, refinements, and changes that are actually worthwhile for our use cases""
+|
+August 26 - 2026
+'Reduced expiry of Quanthrust Vael X2'
+---
 August 25 - 2026
 Version Code : 182
 "Shell Refinement Phase"
