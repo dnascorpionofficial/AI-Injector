@@ -2,7 +2,7 @@ QUANTHRUST VAEL X3 CHANGELOGS
 
 August 26 - 2026
 Version Code : 183
-""C & Rust Refinement""
+"C & Rust Refinement"
 • Replaced hardcoded values with dynamic placements ✔️
 "WebUI Refinement"
 • Changed default theme colour ✔️
