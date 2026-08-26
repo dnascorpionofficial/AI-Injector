@@ -6,10 +6,10 @@ Version Code : 183
 "C & Rust Refinement"
 • Replaced hardcoded values with dynamic placements ✔️
 "WebUI Refinement"
-• Changed default theme colour ✔️
+• Forced to new default theme colour (Can change from theme change anyways but on dirty flash/clean flash it will be forced to use new colour - I will remove this from 184 build) ✔️
 • Fix default theme colour isn't saving to storage ✔️
 • Changed active font style ✔️
-• More news added later
+• More news ...
 |
 Quanthrust Vael X2 Changelogs: Download(https://raw.githubusercontent.com/dnascorpionofficial/AI-INJECTOR/refs/heads/main/quanthrustvaelx2/news.txt)
 
