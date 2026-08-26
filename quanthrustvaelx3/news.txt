@@ -1,11 +1,5 @@
 QUANTHRUST VAEL X3 CHANGELOGS
-|
-"Testing with quotes"
-""Testing with quotes""
-"""Testing with quotes"""
-'Testing with quotes'
-without quotes blank
----
+
 August 26 - 2026
 Version Code : 183
 "C & Rust Refinement"
@@ -15,3 +9,13 @@ Version Code : 183
 • Fix default theme colour isn't saving to storage ✔️
 • Changed active font style ✔️
 • More news added later
+|
+Quanthrust Vael X2 Changelogs: Download(https://raw.githubusercontent.com/dnascorpionofficial/AI-INJECTOR/refs/heads/main/quanthrustvaelx2/news.txt)
+
+Quanthrust Vael X1 Changelogs: Download(https://raw.githubusercontent.com/dnascorpionofficial/AI-INJECTOR/refs/heads/main/quanthrustvaelx1/news.txt)
+
+Xenthera Vanta X9 Changelogs: Download(https://raw.githubusercontent.com/dnascorpionofficial/AI-INJECTOR/refs/heads/main/xentheravantax9/news.txt)
+
+Xenthera Vanta X8 Changelogs: Download(https://raw.githubusercontent.com/dnascorpionofficial/AI-INJECTOR/refs/heads/main/xentheravantax8/news.txt)
+
+Xenthera Vanta X7 Changelogs: Download(https://raw.githubusercontent.com/dnascorpionofficial/AI-INJECTOR/refs/heads/main/xentheravantax7/news.txt)
