@@ -8,3 +8,4 @@ Version Code : 183
 • Changed default theme colour ✔️
 • Fix default theme colour isn't saving to storage ✔️
 • Changed active font style ✔️
+• More news added later
