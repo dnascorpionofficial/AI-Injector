@@ -10,6 +10,7 @@ Version Code : 183
 • Fix default theme colour isn't saving to storage ✔️
 • Changed active font style ✔️
 • Fix allignment in AI Injector & Battery logs ✔️
+• Reduced speed of going back scorpion creature animation ✔️
 |
 Quanthrust Vael X2 Changelogs: Download(https://raw.githubusercontent.com/dnascorpionofficial/AI-INJECTOR/refs/heads/main/quanthrustvaelx2/news.txt)
 
