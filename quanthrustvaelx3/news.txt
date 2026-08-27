@@ -9,7 +9,7 @@ Version Code : 183
 • Forced to new default theme colour (Can change from theme change anyways but on dirty flash/clean flash it will be forced to use new colour - I will remove this from 184 build) ✔️
 • Fix default theme colour isn't saving to storage ✔️
 • Changed active font style ✔️
-• More news ...
+• Fix allignment in AI Injector & Battery logs ✔️
 |
 Quanthrust Vael X2 Changelogs: Download(https://raw.githubusercontent.com/dnascorpionofficial/AI-INJECTOR/refs/heads/main/quanthrustvaelx2/news.txt)
 
