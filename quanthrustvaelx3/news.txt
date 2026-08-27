@@ -5,6 +5,8 @@ August 27 - 2026
 Version Code : 184
 "WebUI Refinement"
 • Remove force new theme on auth verification ✔️
+• Fix randomly triggering main ui before authorised check ✔️
+• Fix delay alligned of showing return button in the custom charging menu ✔️
 ---
 August 26 - 2026
 Version Code : 183
