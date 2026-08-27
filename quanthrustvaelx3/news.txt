@@ -12,6 +12,8 @@ August 26 - 2026
 Version Code : 183
 "C & Rust Refinement"
 • Replaced hardcoded values with dynamic placements ✔️
+"Shell Refinement"
+• Retuned the sleep exception list restoration on dirty flash ✔️
 "WebUI Refinement"
 • Forced to new default theme colour (Can change from theme change anyways but on dirty flash/clean flash it will be forced to use new colour - I will remove this from 184 build) ✔️
 • Fix default theme colour isn't saving to storage ✔️
