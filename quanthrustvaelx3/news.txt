@@ -3,6 +3,8 @@ QUANTHRUST VAEL X3 CHANGELOGS
 
 August 27 - 2026
 Version Code : 184
+"Shell Refinement"
+• Temperory disabled package cache cleaning on boot (maybe enable again later) ✔️
 "WebUI Refinement"
 • Remove force new theme on auth verification ✔️
 • Fix randomly triggering main ui before authorised check ✔️
