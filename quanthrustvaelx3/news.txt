@@ -3,7 +3,7 @@ QUANTHRUST VAEL X3 CHANGELOGS
 
 August 27 - 2026
 Version Code : 184
-"Shell Refinement"
+"Shell Part Refinement"
 • Temperory disabled package cache cleaning on boot (maybe enable again later) ✔️
 "WebUI Refinement"
 • Remove force new theme on auth verification ✔️
@@ -13,7 +13,7 @@ Version Code : 184
 ---
 August 26 - 2026
 Version Code : 183
-"C & Rust Refinement"
+"C & Rust Part Refinement"
 • Replaced hardcoded values with dynamic placements ✔️
 "Shell Refinement"
 • Retuned the sleep exception list restoration on dirty flash ✔️
