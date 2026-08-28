@@ -7,6 +7,7 @@ Version Code : 184
 • Remove force new theme on auth verification ✔️
 • Fix randomly triggering main ui before authorised check ✔️
 • Fix delay alligned of showing return button in the custom charging menu ✔️
+• Killed the continuous 16ms refresh screen when scorpion creature animation is on ✔️
 ---
 August 26 - 2026
 Version Code : 183
