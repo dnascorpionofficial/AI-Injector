@@ -1,7 +1,7 @@
 QUANTHRUST VAEL X3 CHANGELOGS
 |
 
-August 27 - 2026
+August 29 - 2026
 Version Code : 184
 "Shell Part Refinement"
 • Optimized installation script ✔️
@@ -10,6 +10,10 @@ Version Code : 184
 • Fix randomly triggering main ui before authorised check ✔️
 • Fix delay alligned of showing return button in the custom charging menu ✔️
 • Killed the continuous 16ms refresh screen when scorpion creature animation is on ✔️
+• Fix return button freez when swiping from sub options ✔️
+• Add support swipe to close from sub options ✔️
+• Add a live test button for toast colour change section ✔️
+• Changed custom buttons from save intro ✔️
 ---
 August 26 - 2026
 Version Code : 183
