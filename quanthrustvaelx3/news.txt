@@ -11,6 +11,7 @@ Version Code : 185
 • Removed screen check option from webui ✔️
 "App Related Refinement"
 • Added a new ScorpioN Companion app for fetching datas to activate modes accordingly ✔️
+• Add companion app dedicated logs when exporting ✔️
 ---
 August 29 - 2026
 Version Code : 184
