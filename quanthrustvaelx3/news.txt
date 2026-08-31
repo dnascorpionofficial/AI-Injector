@@ -1,6 +1,17 @@
 QUANTHRUST VAEL X3 CHANGELOGS
 |
 
+September 01 - 2026
+Version Code : 185
+"C & Rust Part Refinement"
+• Fixed background battery drain from constant screen & app checking ✔️
+• Removed unnecessary periodic checks every 17 seconds - module now reacts instantly to real changes only ✔️
+• Added a short delay before switching from performance > normal mode to prevent accidental triggers ✔️
+"WebUI Refinement"
+• Removed screen check option from webui ✔️
+"App Related Refinement"
+• Added a new ScorpioN Companion app for fetching datas to activate modes accordingly ✔️
+---
 August 29 - 2026
 Version Code : 184
 "Shell Part Refinement"
