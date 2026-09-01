@@ -12,16 +12,19 @@ Commits : +1652 / -197
 • Removed unnecessary periodic checks every 17 seconds - module now reacts instantly to real changes only ✔️
 • Added 6 second delay before switching from performance > normal mode to prevent accidental triggers - we will increase this delay if it's still fast ✔️
 "WebUI Refinement"
-'+462/-59'
+Commits : +462 / -59
 • Removed screen check option from webui ✔️
 • Replaced screen check with companion mode option (Accessibility / Polling) for the ScorpioN Companion app ✔️
 • Add companion app dedicated logs when exporting ✔️
 "App Related Refinement"
-'+4491/535'
+Commits : +4491 / -535
 • Added a new ScorpioN Companion app for fetching datas to activate modes accordingly ✔️
 • Fallback polling of current app is live every 8 second ✔️
 • Updated companion App version 15 & Toast App version 17 ✔️
 • Companion app only support Android 12 & above - Toast app supports Android 10 & above ✔️
+"Shell Part Refinement"
+Commits : +1 / -0
+• Main configuration file restore when dirty flashing from 185 & above versions ✔️
 ---
 August 29 - 2026
 Version Code : 184
