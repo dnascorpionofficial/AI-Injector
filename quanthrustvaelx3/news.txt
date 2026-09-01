@@ -4,9 +4,12 @@ QUANTHRUST VAEL X3 CHANGELOGS
 September 01 - 2026
 Version Code : 185
 "C & Rust Part Refinement"
+• Moved RAM Cleaning to an independent process ✔️
+• Use epoll/inotifyd method to load the datas than an indefinite loop running every x seconds ✔️
+• Completely removed screen check modes that increase overhead - we use companion app now ✔️
 • Fixed background battery drain from constant screen & app checking ✔️
 • Removed unnecessary periodic checks every 17 seconds - module now reacts instantly to real changes only ✔️
-• Added a short delay before switching from performance > normal mode to prevent accidental triggers ✔️
+• Added 6 second delay before switching from performance > normal mode to prevent accidental triggers - We will increase this delay if it's still fast ✔️
 "WebUI Refinement"
 • Removed screen check option from webui ✔️
 • Replaced screen check with companion mode option (Accessibility / Polling) for the ScorpioN Companion app ✔️
@@ -15,6 +18,7 @@ Version Code : 185
 • Added a new ScorpioN Companion app for fetching datas to activate modes accordingly ✔️
 • Fallback polling of current app is live every 8 second ✔️
 • Updated companion App version 15 & Toast App version 17 ✔️
+• Companion app only support Android 12 & above - Toast app supports Android 10 & above ✔️
 ---
 August 29 - 2026
 Version Code : 184
