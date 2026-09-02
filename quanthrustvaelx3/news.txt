@@ -12,7 +12,8 @@ Commits : +1652 / -197
 • Removed unnecessary periodic checks every 17 seconds - module now reacts instantly to real changes only ✔️
 • Added 6 second delay before switching from performance > normal mode to prevent accidental triggers - we will increase this delay if it's still fast ✔️
 "WebUI Refinement"
-Commits : +462 / -59
+Commits : +474 / -59
+• Fix restart injector & soft reboot ui toggle don't reflect the current state without reopening webui ✔️
 • Removed screen check option from webui ✔️
 • Replaced screen check with companion mode option (Accessibility / Polling) for the ScorpioN Companion app ✔️
 • Add companion app dedicated logs when exporting ✔️
