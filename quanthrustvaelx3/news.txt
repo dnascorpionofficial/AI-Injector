@@ -4,7 +4,7 @@ QUANTHRUST VAEL X3 CHANGELOGS
 September 02 - 2026
 Version Code : 185
 "C & Rust Part Refinement"
-Commits : +1652 / -197
+Commits : +1998 / -199
 • Moved RAM Cleaning to an independent process ✔️
 • Use epoll/inotifyd method to load the datas than an indefinite loop running every x seconds ✔️
 • Completely removed screen check modes that increase overhead - we use companion app now ✔️
