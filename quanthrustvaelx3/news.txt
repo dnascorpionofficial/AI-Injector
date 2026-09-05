@@ -1,6 +1,6 @@
 QUANTHRUST VAEL X3 CHANGELOGS
 |
-
+|
 September 05 - 2026
 Version Code : 185
 "C & Rust Part Refinement"
@@ -23,11 +23,13 @@ Commits : +821 / -193
 Commits : +4491 / -535
 • Added a new ScorpioN Companion app for fetching datas to activate modes accordingly ✔️
 • Fallback polling of current app is live every 8 second ✔️
-• Updated companion & Toast app versions to 26 ✔️
+• Updated Companion & Toast app versions to 26 ✔️
 • Companion app only support Android 12 & above - Toast app supports Android 10 & above ✔️
 "Shell Part Refinement"
 Commits : +1 / -0
 • Main configuration file restore when dirty flashing from 185 & above versions ✔️
+---
+|
 ---
 August 29 - 2026
 Version Code : 184
@@ -43,6 +45,8 @@ Version Code : 184
 • Add a live test button for toast colour change section ✔️
 • Changed custom buttons from save intro ✔️
 ---
+|
+---
 August 26 - 2026
 Version Code : 183
 "C & Rust Part Refinement"
@@ -55,7 +59,9 @@ Version Code : 183
 • Changed active font style ✔️
 • Fix allignment in AI Injector & Battery logs ✔️
 • Reduced speed of going back scorpion creature animation ✔️
+---
 |
+---
 Quanthrust Vael X2 Changelogs: Download(https://raw.githubusercontent.com/dnascorpionofficial/AI-INJECTOR/refs/heads/main/quanthrustvaelx2/news.txt)
 
 Quanthrust Vael X1 Changelogs: Download(https://raw.githubusercontent.com/dnascorpionofficial/AI-INJECTOR/refs/heads/main/quanthrustvaelx1/news.txt)
