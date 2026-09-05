@@ -23,7 +23,7 @@ Commits : +617 / -182
 Commits : +4491 / -535
 • Added a new ScorpioN Companion app for fetching datas to activate modes accordingly ✔️
 • Fallback polling of current app is live every 8 second ✔️
-• Updated companion App version 15 & Toast App version 17 ✔️
+• Updated companion & Toast app versions to 26 ✔️
 • Companion app only support Android 12 & above - Toast app supports Android 10 & above ✔️
 "Shell Part Refinement"
 Commits : +1 / -0
