@@ -13,7 +13,7 @@ Commits : +1998 / -199
 • Completely removed screen check modes that increase overhead - we use companion app now ✔️
 • Fixed background battery drain from constant screen & app checking ✔️
 • Removed unnecessary periodic checks every 17 seconds - module now reacts instantly to real changes only ✔️
-• Added 6 second delay before switching from performance > normal mode to prevent accidental triggers - we will increase this delay if it's still fast ✔️
+• Better mode switching ✔️
 "WebUI Refinement"
 Commits : +821 / -193
 • Fix content allignment in AI Injector logs & Battery logs ✔️
