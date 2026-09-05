@@ -12,7 +12,7 @@ Commits : +1998 / -199
 • Removed unnecessary periodic checks every 17 seconds - module now reacts instantly to real changes only ✔️
 • Added 6 second delay before switching from performance > normal mode to prevent accidental triggers - we will increase this delay if it's still fast ✔️
 "WebUI Refinement"
-Commits : +617 / -182
+Commits : +821 / -193
 • Fix content allignment in AI Injector logs & Battery logs ✔️
 • Fix restart injector & soft reboot ui toggle don't reflect the current state without reopening webui ✔️
 • Removed screen check option from webui ✔️
