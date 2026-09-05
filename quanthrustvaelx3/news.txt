@@ -1,6 +1,6 @@
 QUANTHRUST VAEL X3 CHANGELOGS
 |
-|
+
 September 05 - 2026
 Version Code : 185
 "C & Rust Part Refinement"
